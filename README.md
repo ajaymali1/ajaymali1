@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="Welcome.png" width="150" alt="Welcome IMG">
+<img src="Welcome.png" alt="Welcome IMG">
 <!--
 **ajaymali1/ajaymali1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

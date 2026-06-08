@@ -17,7 +17,6 @@
 <br>
 
 - 📍 Pune, Maharashtra, India
-- 🎓 Certified — **Sheryians Coding School, Job Ready Cohort**
 - 💼 Open to **Internships & Freelance**
 - 📫 Reach me at **ajayrmali2003@gmail.com**
   

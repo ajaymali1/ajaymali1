@@ -1,11 +1,11 @@
-![Banner](./Welcome.png)
+![Banner](assets/Welcome.png)
 
 <br>
 
 ## 👋🏻 About Me
 
 <div align="right">
-  <img src="ID CARD-Frame.gif" width="350px" alt="Ajay - Developer ID Card" align="right" />
+  <img src="assets/ID CARD-Frame.gif" width="350px" alt="Ajay - Developer ID Card" align="right" />
 </div>
 
 ### Hi, I'm Ajay 🧑🏻‍💻

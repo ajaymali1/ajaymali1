@@ -26,26 +26,16 @@
 
 <br clear="right"/>
 
----
+## Tech Stack
+[![Frontend](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) [![Backend](https://skillicons.dev/icons?i=java,python)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle SQL" width="48" height="48" />
 
-## 🛠️ Tech Stack
-
-
-
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
-
-[![Backend Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-
-
-**Tools**
-
+###  Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ajaymali101a)
